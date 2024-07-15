@@ -1,0 +1,4 @@
+"scripts": {
+  "asb": "asbuild",
+  "build": "npm run asb"
+}
